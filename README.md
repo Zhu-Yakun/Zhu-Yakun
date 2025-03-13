@@ -3,13 +3,13 @@
 
 
 
-### I'm Yang hc （Bill） .
+### I'm Yakun Zhu（Miracle） .
 
 <br/>
 
 - 🍒  Passionate about software development with a decade of professional experience.
 - 📍  Based in Chongqing (CQ), China.
-- 👨‍🎓  CQU.
+- 👨‍🎓  Tongji University.
 - 👩‍💻  With over 10 years of experience in the software development industry.
 - 🎖️  Served 5 years in the army, honing discipline and leadership skills.
 - 👨‍🦳  Father of two girls.
