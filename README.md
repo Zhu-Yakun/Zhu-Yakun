@@ -16,7 +16,8 @@
   - 2023-2024全国VEX机器人精英赛技能赛冠军、全能奖、科创青禾一等奖  
   - 2024年VEX机器人**世界锦标赛**对抗赛分区第三、技能赛**世界第四**、程序设计THINK AWARD专项奖  
   - 2024年CCPC上海赛铜牌
-- 💬 欢迎讨论算法和项目问题！  
+- 💬 欢迎讨论算法和项目问题！
+- [ICML2025]CERTAIN: Context Uncertainty-aware One-Shot Adaptation for Context-based Offline Meta Reinforcement Learning
 
 ---
 
