@@ -27,7 +27,7 @@
 暂时还没有更新上传完成
 ### **1. 校园食运通APP（团队项目）**  
 🌟 **项目描述**：使用 Vue 3 + Flask 开发的校园点餐应用。支持商家搜索、在线点单和悬赏功能。  
-🔗 **项目地址**：[查看仓库](https://gitlab.com/tj-cs-swe/cs10102302-2024-fall/G1/campusfoodexpress)  
+🔗 **项目地址**：[查看仓库](https://github.com/Zhu-Yakun/App-Development/tree/main/campusfoodexpress)  
 📌 **项目亮点**：
 - 实时通信功能，支持群聊和好友互动  
 - 地图搜索功能，提供精准位置查找  
