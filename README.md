@@ -18,9 +18,11 @@
   - 2024年CCPC上海赛铜牌
   - 2025年第18届中国大学生计算机设计大赛国家二等奖
 - 💬 欢迎讨论算法和项目问题！
-- **[[ICML2025]CERTAIN: Context Uncertainty-aware One-Shot Adaptation for Context-based Offline Meta Reinforcement Learning](https://icml.cc/virtual/2025/poster/44655)**
+---
+### 个人主页
+- [Google Scholar](https://scholar.google.com.hk/citations?user=jOe4FdgAAAAJ&hl=zh-CN)
 - [OpenReview](https://openreview.net/profile?id=~Yakun_Zhu2)
-
+- [Homepage](https://zhu-yakun.github.io/)
 ---
 
 ## 🚀 **项目展示**
