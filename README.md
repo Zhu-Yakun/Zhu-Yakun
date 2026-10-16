@@ -18,11 +18,11 @@
   - 2024年CCPC上海赛铜牌
   - 2025年第18届中国大学生计算机设计大赛国家二等奖
 - 📖 **科研论文**：
-  - 请见[Google Scholar](https://scholar.google.com.hk/citations?user=jOe4FdgAAAAJ&hl=zh-CN)
+  - 请见[Google Scholar](https://scholar.google.com/citations?user=jOe4FdgAAAAJ)
 - 💬 欢迎讨论算法和项目问题！
 ---
 ### 个人主页
-- [Google Scholar](https://scholar.google.com.hk/citations?user=jOe4FdgAAAAJ&hl=zh-CN)
+- [Google Scholar](https://scholar.google.com/citations?user=jOe4FdgAAAAJ&hl=en)
 - [OpenReview](https://openreview.net/profile?id=~Yakun_Zhu2)
 - [Homepage](https://zhu-yakun.github.io/)
 ---
